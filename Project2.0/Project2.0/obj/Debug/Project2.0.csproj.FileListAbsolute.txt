@@ -1,0 +1,12 @@
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\bin\Debug\Project2.0.exe.config
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\bin\Debug\Project2.0.exe
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\bin\Debug\Project2.0.pdb
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2.0.csprojResolveAssemblyReference.cache
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2._0.ManageTeams.resources
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2._0.Properties.Resources.resources
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2.0.csproj.GenerateResource.Cache
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2.0.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2.0.exe
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2.0.pdb
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2._0.ManagePlayers.resources
+C:\Users\jackh\Documents\AHHH\Project2.0\Project2.0\obj\Debug\Project2._0.ManageFixtures.resources
